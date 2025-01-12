@@ -1,7 +1,12 @@
+<h3 align="left">Hello, World! 🌏</h3>
 
 ###
 
-<p align="left"></p>
+<p align="left">My name is Auza Alfarizi Ramadhan], and I'm a rookie programmer from Indonesia.<br>Currently, I’m studying at SMKN 1 CIOMAS School, where I’m pursuing a major in Software and Game Development.<br>Feel free to explore my repositories and connect with me! Let’s collaborate and build amazing things together. 🚀</p>
+
+###
+
+<h2 align="left">Technologies & Tools ⚙️</h2>
 
 ###
 
@@ -31,6 +36,10 @@
 
 ###
 
+<h2 align="left">Connact Me On☎️</h2>
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/@YongZhin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -52,12 +61,14 @@
 
 ###
 
-<img align="right" height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVpaXI3aDl0NHJqaGdtNzJna2o4ZDZnbDhnZ2JmOTM3ZHNiOGp0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
+<div align="center">
+  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVpaXI3aDl0NHJqaGdtNzJna2o4ZDZnbDhnZ2JmOTM3ZHNiOGp0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YongZH-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=YongZH-1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YongZH-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
