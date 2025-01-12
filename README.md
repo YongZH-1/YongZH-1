@@ -1,4 +1,3 @@
-<h4 align="left">Hello, World! 🌏<br>My name is Auza Alfarizi Ramadhan], and I'm a rookie programmer from Indonesia.<br>Currently, I’m studying at SMKN 1 CIOMAS School, where I’m pursuing a major in Software and Game Development.<br><br>Feel free to explore my repositories and connect with me! Let’s collaborate and build amazing things together. 🚀</h4>
 
 ###
 
